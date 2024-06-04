@@ -1,4 +1,3 @@
-# .github
 <h1 align="center">Diabetes Sense</h1>
 <h2 align="center">Diabetic foot ulcer detector</h2>
 
